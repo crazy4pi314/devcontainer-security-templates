@@ -8,6 +8,11 @@ This repo provides some examples of Dev Containers configured with best pratice 
 
 ### [Python Security Tools](./src/python-security-template/)
 
+
+```json
+{"image": "ghcr.io/crazy4pi314/devcontainer-security-templates/python-security-template:latest"}
+```
+
 ### [TODO: .NET Security Tools]()
 
 ### [TODO: Rust Security Tools]()
