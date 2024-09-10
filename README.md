@@ -1,10 +1,15 @@
 # Secure Development with Dev Containers
 
-> This repo provides a starting point and examples of Dev Containers for best pratice security tools and workflows. The example in this repository follows the [Dev Container Template distribution specification](https://containers.dev/implementors/templates-distribution/).  
-> If there is a tech stack or feature you think would be helpful to have, please [file an issue]() or [make a template of your own](https://github.com/devcontainers/template-starter)!
+This repo provides some examples of Dev Containers configured with best pratice security tools and workflows to make developing secure code easier.
 
-## Included templates
+> If there is a tech stack or feature you think would be helpful to have, please [file an issue](https://github.com/crazy4pi314/devcontainer-security-templates/issues) or [make a Dev Container template of your own](https://github.com/devcontainers/template-starter)!
 
-### Python Security Tools 
+## Contents
 
-[source](./src/python-security-template/)
+### [Python Security Tools](./src/python-security-template/)
+
+### [TODO: .NET Security Tools]()
+
+### [TODO: Rust Security Tools]()
+
+_The templates in this repository follows the [Dev Container Template distribution specification](https://containers.dev/implementors/templates-distribution/)._
