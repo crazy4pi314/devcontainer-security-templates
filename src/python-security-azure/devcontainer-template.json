@@ -1,0 +1,13 @@
+{
+    "id": "python-security-azure",
+    "version": "1.0.0",
+    "name": "Python Security Tools for Azure",
+    "description": "A template collecting and setting up tools for doing secure Python development with Azure.",
+    "documentationURL": "https://github.com/crazy4pi314/devcontainer-security-templates/tree/main/src/python-security-azure",
+    "licenseURL": "https://github.com/crazy4pi314/devcontainer-security-templates/blob/main/LICENSE",
+    "options": {
+    },
+    "platforms": [
+        "Any"
+    ]
+}
