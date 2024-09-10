@@ -2,10 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
 	"name": "python-security-azure",
-	"build": { 
-		"context": "..",
-		"dockerfile": "Dockerfile"
-	},
+    "image": "mcr.microsoft.com/devcontainers/python:1-${templateOption:imageVariant}",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
